@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://www.teleguide.info/xmltv.dtd">
+<tv generator-info-name="TVH_W/0.750l" generator-info-url="http://www.teleguide.info/">
+    <channel id="3">
+        <display-name lang="ru">ТВЦ</display-name>
+        <icon src="http://www.teleguide.info/img/channel/3.gif"/>
+    </channel>
+    <channel id="4">
+        <display-name lang="ru">НТВ</display-name>
+        <icon src="http://www.teleguide.info/img/channel/4.gif"/>
+    </channel>
+    <channel id="5">
+        <display-name lang="ru">Россия Культура</display-name>
+        <icon src="http://www.teleguide.info/img/channel/5.gif"/>
+    </channel>
+    <programme start="20140414000000 +0400" stop="20140414003500 +0400" channel="300035">
+        <title lang="ru">Смех с доставкой на дом</title>
+        <category lang="ru">Развлекательные</category>
+    </programme>
+    <programme start="20140414003500 +0400" stop="20140414014500 +0400" channel="300035">
+        <title lang="ru">Смех с доставкой на дом</title>
+        <category lang="ru">Развлекательные</category>
+    </programme>
+    <programme start="20140414014500 +0400" stop="20140414020000 +0400" channel="300035">
+        <title lang="ru">Музыкальный алфавит</title>
+        <category lang="ru">Развлекательные</category>
+    </programme>
+    <programme start="20140414020000 +0400" stop="20140414025000 +0400" channel="300035">
+        <title lang="ru">Комната смеха</title>
+        <category lang="ru">Развлекательные</category>
+        <desc lang="ru">Действие сериала происходит в пяти различных средах обитания. Ведущая программы Обезьянка приглашает юных зрителей совершать интересные открытия, подражать зверям и танцевать с веселыми энергичными гостями, среди которых страус, павлин, пингвин, лев и даже петух. Маленькие зрители с увлечением смогут наблюдать за многообразным миром зверей, а также узнают о нем различные...</desc>
+    </programme>
+    <programme start="20140414025000 +0400" stop="20140414032000 +0400" channel="300035">
+        <title lang="ru">Городок</title>
+        <category lang="ru">Развлекательные</category>
+    </programme>
+</tv>
