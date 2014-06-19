@@ -15,6 +15,8 @@ Before usage install Python 2.7 and cElementTree and jinja2 Python-module:
 
 `sudo pip install celementtree`
 
+`sudo pip install elementtree`
+
 `sudo pip install jinja2`
 
 `sudo pip install dateutil`
